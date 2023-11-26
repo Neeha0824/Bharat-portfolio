@@ -32,7 +32,7 @@ darkmode.onclick = () => {
 // ==================Contact Form=================
 
 const scriptURL =
-  "https://script.google.com/macros/s/AKfycby1pKn7V6WaNKnwHii_IAeDllsjoq4LIXcUoAp4tK9AK3H6zcjoiSqsJgRLaaqpaMkbTw/exec";
+  "https://script.google.com/macros/s/AKfycbw6zlsC91vERBKIZTRQKZdxCzbjpBUfmCKZS_wZ0cB2-MMrmGaQpA85lB-IuxT944ztZA/exec";
 const form = document.forms["submit-to-google-sheet"];
 
 const msg = document.getElementById("msg");
